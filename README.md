@@ -1,7 +1,8 @@
 #### 👋 Hi there, I am Alexander Velchev
 
-- 🔭 I’m currently working as a Java Software Developer t at Bbraun. 
+- 🔭 I’m currently working as a Java Software Developer t at Bbraun.
 - 📫 How to reach me: [![Linkedin: thaianebraga](https://img.shields.io/badge/-AlexanderVelchev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-velchev-97a13310b/)](https://www.linkedin.com/in/alexander-velchev-97a13310b//)
+- CV: https://alvelchev.github.io/AlexanderVelchev.github.io/
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -17,9 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
-
-[![GitHub Streak](https://myappstrike.herokuapp.com?user=alvelchev&theme=gruvbox)](https://git.io/streak-stats)
+&nbsp;
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvelchev&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
