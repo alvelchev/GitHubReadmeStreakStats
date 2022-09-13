@@ -4,7 +4,7 @@
 
 [![GitHub Streak](https://myappstrike.herokuapp.com?user=alvelchev&theme=gruvbox)](https://git.io/streak-stats)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=alvelchev)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvelchev&show_icons=true&theme=radical)
 
 
 
