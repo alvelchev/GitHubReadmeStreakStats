@@ -3,6 +3,8 @@
 - 🔭 I’m currently working as a Java Software Developer t at Bbraun.
 - 📫 How to reach me: [![Linkedin: thaianebraga](https://img.shields.io/badge/-AlexanderVelchev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-velchev-97a13310b/)](https://www.linkedin.com/in/alexander-velchev-97a13310b//)
 - CV: https://alvelchev.github.io/AlexanderVelchev.github.io/
+
+![](https://komarev.com/ghpvc/?username=alvelchev&label=PROFILE+VIEWS)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
